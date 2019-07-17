@@ -1,0 +1,65 @@
+[33mcommit f82d62b192d3cc40bf28bd450f6a9eff0a09d119[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pjh <804873052@qq.com>
+Date:   Wed Jul 17 14:09:02 2019 +0800
+
+    test new
+
+[33mcommit 623fd22626e211176be755497ae7741d903b34b1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: pjh <804873052@qq.com>
+Date:   Wed Jul 17 13:53:40 2019 +0800
+
+    First commit~
+
+[33mcommit 4bf45c5fea5baf7b302418811c4dbf94ac008f91[m
+Author: H <804873052@qq.com>
+Date:   Fri Jan 25 16:00:04 2019 +0800
+
+    git
+
+[33mcommit 8cdd865ea2a8c7d8c22b3d498858187dc40a9ced[m
+Author: H <804873052@qq.com>
+Date:   Tue Jan 22 16:48:59 2019 +0800
+
+    remove test.txt
+
+[33mcommit 42ad2156378634627bec90463ffdb30ba1dbbbd0[m
+Author: H <804873052@qq.com>
+Date:   Tue Jan 22 16:43:43 2019 +0800
+
+    add test.txt
+
+[33mcommit 9435505749a47b03efe46da9944eece518908c79[m
+Author: H <804873052@qq.com>
+Date:   Tue Jan 22 16:09:52 2019 +0800
+
+    git stracks changes
+
+[33mcommit 921c10eebfc13a4481b67719a821bec065c54bde[m
+Author: H <804873052@qq.com>
+Date:   Tue Jan 22 16:01:54 2019 +0800
+
+     understand how stage works
+
+[33mcommit d92e12ae39cccf5b4e849867c7457dec4cedfb5d[m
+Author: H <804873052@qq.com>
+Date:   Tue Jan 22 10:48:15 2019 +0800
+
+    change
+
+[33mcommit 5f641e09ce2796bd9f13906b7293f2347c7eed2b[m
+Author: H <804873052@qq.com>
+Date:   Mon Jan 21 18:31:27 2019 +0800
+
+    append GPL
+
+[33mcommit ffdb300a5717213f6f2deb12769cfc698e9c0aa7[m
+Author: H <804873052@qq.com>
+Date:   Mon Jan 21 18:27:04 2019 +0800
+
+    change add distribute
+
+[33mcommit 25f2be805f4dc69d5aeb5ad7b36b16df3e036027[m
+Author: H <804873052@qq.com>
+Date:   Mon Jan 21 18:19:11 2019 +0800
+
+    wrote a readme file
